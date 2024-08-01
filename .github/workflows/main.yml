@@ -14,7 +14,7 @@ permissions:
   id-token: write
 
 jobs:
-  install-visual-studio:
+  build:
     runs-on: self-hosted
 
     steps:
