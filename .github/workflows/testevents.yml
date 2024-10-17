@@ -8,7 +8,7 @@ on:
   push:
     branches: [ "master" ]
     paths:
-     - 'testevents.yml'
+     - testevents.yml
   # pull_request:
   #   branches: [ "master" ]
 
